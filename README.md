@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 <div class="container">
   <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
   <h2 align="center" >Front-End Developer</h2>
-  <img align="center" src="images/profile_image.png" alt="My image" width="300px">
+  <align>
+    <img align="center" src="images/profile_image.png" alt="My image" width="200px">
+  </align>
   <div class="skills">
     <h3>Skills:</h3>
       <img align="center" src="images/html.png" alt="HTML image" width="50px">
-      <img align="center" src="images/css.png" alt="CSS image" width="50px">
       <img align="center" src="images/css.png" alt="CSS image" width="50px">
       <img align="center" src="images/js.png" alt="Javascript image" width="50px">
       <img align="center" src="images/bootstrap.png" alt="bootstrap image" width="50px">
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
     <br>
     <a href="">Facebook</a>
     <br>
-    <a href="">Twitter</a>
+    <a href="">X</a>
   </div>
 </div>
 
