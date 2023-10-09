@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="container">
-  <style>
+<head>
+   <style>
     h1 {
       color: #00a2ff;
       text-align: center;
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
       clip-path: circle();
     }
   </style>
+</head>
+<div class="container">
   <h1>Hi 👋, I'm Mohammed Hamdy Allam</h1>
   <h3 class="about">Front-End Developer</h3>
   <img src="profile_image.png" alt="My image">
