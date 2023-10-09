@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="container">
-  <h1 style="color: #00a2ff; text-align: center;">Hi 👋, I'm Mohammed Hamdy Allam</h1>
-  <h3 style="text-align: center;" class="about">Front-End Developer</h3>
-  <img style="clip-path: circle();" src="profile_image.png" alt="My image">
+  <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
+  <h3 align="center" >Front-End Developer</h3>
+  <img align="center" src="profile_image.png" alt="My image">
+  <div class="links">
+    <a href="">My portfolio</a>
+    <a href="">Linked In</a>
+    <a href="">Facebook</a>
+    <a href="">Twitter</a>
+  </div>
 </div>
+
 
 
