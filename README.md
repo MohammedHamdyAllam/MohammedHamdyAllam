@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <h1>Hi 👋, I'm Mohammed Hamdy Allam</h1>
-    <h3>Front-End Developer</h3>
-    <img src="profile_image.png">
-  </body>
-</html>
+<div class="container">
+  <style>
+    h1 {
+      color: #00a2ff;
+      text-align: center;
+    }
+    .about {
+      text-align: center;
+    }
+    img {
+      clip-path: circle();
+    }
+  </style>
+  <h1>Hi 👋, I'm Mohammed Hamdy Allam</h1>
+  <h3 class="about">Front-End Developer</h3>
+  <img src="profile_image.png" alt="My image">
+</div>
 
