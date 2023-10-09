@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <div class="container">
   <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
   <h2 align="center" >Front-End Developer</h2>
-  <align>
-    <img align="center" src="images/profile_image.png" alt="My image" width="200px">
-  </align>
+  <img style="clip-path: circle()" align="center" src="images/profile_image.png" alt="My image" width="200px">
   <div class="skills">
     <h3>Skills:</h3>
       <img align="center" src="images/html.png" alt="HTML image" width="50px">
@@ -36,13 +34,14 @@ Here are some ideas to get you started:
   </div>
   <hr>
   <div class="links">
+    <h3>Contact:</h3>
     <a href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a>
     <br>
     <a href="https://www.linkedin.com/in/mohammed-hamdy-22b91928a/">Linked In</a>
     <br>
     <a href="">Facebook</a>
     <br>
-    <a href="">X</a>
+    <a href="MohammedHamdyX](https://twitter.com/MohammedHamdyX)https://twitter.com/MohammedHamdyX">X</a>
   </div>
 </div>
 
