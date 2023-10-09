@@ -14,23 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-   <style>
-    h1 {
-      color: #00a2ff;
-      text-align: center;
-    }
-    .about {
-      text-align: center;
-    }
-    img {
-      clip-path: circle();
-    }
-  </style>
-</head>
 <div class="container">
-  <h1>Hi 👋, I'm Mohammed Hamdy Allam</h1>
-  <h3 class="about">Front-End Developer</h3>
-  <img src="profile_image.png" alt="My image">
+  <h1 style="color: #00a2ff; text-align: center;">Hi 👋, I'm Mohammed Hamdy Allam</h1>
+  <h3 style="text-align: center;" class="about">Front-End Developer</h3>
+  <img style="clip-path: circle();" src="profile_image.png" alt="My image">
 </div>
+
 
