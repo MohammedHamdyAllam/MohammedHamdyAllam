@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 -->
 <div class="container">
   <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
-  <h3 align="center" >Front-End Developer</h3>
+  <h2 align="center" >Front-End Developer</h2>
   <img align="center" src="profile_image.png" alt="My image" width="50%">
+  <div class="skills">
+    <h3>Skills</h3>
+      <img align="center" src="images/html.png" alt="HTML image" width="50px">
+      <img align="center" src="images/css.png" alt="CSS image" width="50px">
+      <img align="center" src="images/css.png" alt="CSS image" width="50px">
+      <img align="center" src="images/js.png" alt="Javascript image" width="50px">
+  </div>
+  <hr>
   <div class="links">
     <a href=https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/"">My portfolio</a>
     <br>
