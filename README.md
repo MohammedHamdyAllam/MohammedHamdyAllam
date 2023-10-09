@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 <div class="container">
   <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
   <h3 align="center" >Front-End Developer</h3>
-  <img align="center" src="profile_image.png" alt="My image">
+  <img align="center" src="profile_image.png" alt="My image" width="50%">
   <div class="links">
-    <a href="">My portfolio</a>
-    <a href="">Linked In</a>
+    <a href=https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/"">My portfolio</a>
+    <br>
+    <a href="https://www.linkedin.com/in/mohammed-hamdy-22b91928a/">Linked In</a>
+    <br>
     <a href="">Facebook</a>
+    <br>
     <a href="">Twitter</a>
   </div>
 </div>
