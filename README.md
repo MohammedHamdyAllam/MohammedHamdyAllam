@@ -15,23 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="container">
-  <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
-  <h2 align="center" >Front-End Developer</h2>
-  <img style="clip-path: circle()" align="center" src="images/profile_image.png" alt="My image" width="200px">
-  <div class="skills">
-    <h3>Skills:</h3>
-      <img align="center" src="images/html.png" alt="HTML image" width="50px">
-      <img align="center" src="images/css.png" alt="CSS image" width="50px">
-      <img align="center" src="images/js.png" alt="Javascript image" width="50px">
-      <img align="center" src="images/bootstrap.png" alt="bootstrap image" width="50px">
-      <img align="center" src="images/react.png" alt="react image" width="50px">
-      <img align="center" src="images/typescript.png" alt="react image" width="50px">
-      <img align="center" src="images/sass.png" alt="react image" width="50px">
-      <img align="center" src="images/jquery.png" alt="jquery image" width="50px">
-      <img align="center" src="images/sweet_alert.png" alt="sweet alert image" width="50px">
-      <img align="center" src="images/tippy.png" alt="tippy js image" width="50px">
-      <img align="center" src="images/font_awesome.png" alt="font awesome image" width="50px">
+  <div class="Who-are-me">
+    <img src="images/work.png" alt="work card" width="100%">
+    <h1 align="center">Hi 👋, I'm Mohammed Hamdy Allam</h1>
+    <h2 align="center" >Front-End Developer</h2>
+    <img style="clip-path: circle()" align="center" src="images/profile_image.png" alt="My image" width="200px">
+    <div class="skills">
+      <h3>Skills:</h3>
+        <img align="center" src="images/html.png" alt="HTML image" width="50px">
+        <img align="center" src="images/css.png" alt="CSS image" width="50px">
+        <img align="center" src="images/js.png" alt="Javascript image" width="50px">
+        <img align="center" src="images/bootstrap.png" alt="bootstrap image" width="50px">
+        <img align="center" src="images/react.png" alt="react image" width="50px">
+        <img align="center" src="images/typescript.png" alt="react image" width="50px">
+        <img align="center" src="images/sass.png" alt="react image" width="50px">
+        <img align="center" src="images/jquery.png" alt="jquery image" width="50px">
+        <img align="center" src="images/sweet_alert.png" alt="sweet alert image" width="50px">
+        <img align="center" src="images/tippy.png" alt="tippy js image" width="50px">
+        <img align="center" src="images/font_awesome.png" alt="font awesome image" width="50px">
+    </div>
   </div>
+  <hr>
   <hr>
   <div class="links">
     <h3>Contact:</h3>
@@ -41,8 +45,10 @@ Here are some ideas to get you started:
     <br>
     <a href="">Facebook</a>
     <br>
-    <a href="MohammedHamdyX](https://twitter.com/MohammedHamdyX)https://twitter.com/MohammedHamdyX">X</a>
+    <a href="https://twitter.com/MohammedHamdyX">X</a>
   </div>
 </div>
+
+
 
 
