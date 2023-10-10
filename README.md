@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <hr>
   <div class="cv&website">
     <h3>CV and Personal website</h3>
-    <a download href="mohammed's CV.pdf">My cv</a><span>(You can see my CV to know more about me)</span>
+    <a download href="files/mohammed's CV.pdf">My cv</a><span>(You can see my CV to know more about me)</span>
     <br>
     <a href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a><span>(You can see my portfolio with all my projects and more information about me)</span>
   </div>
