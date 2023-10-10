@@ -48,19 +48,19 @@ Here are some ideas to get you started:
   <hr>
   <div class="cv&website">
     <h3>CV and Personal website</h3>
-    <a download href="files/mohammed's CV.pdf">My cv</a><span>(You can see my CV to know more about me)</span>
+    <a target="_blank" download href="files/mohammed's CV.pdf">My cv</a><span>(You can see my CV to know more about me)</span>
     <br>
-    <a href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a><span>(You can see my portfolio with all my projects and more information about me)</span>
+    <a target="_blank" href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a><span>(You can see my portfolio with all my projects and more information about me)</span>
   </div>
   <hr>
   <hr>
   <div class="links">
     <h3>My personal accounts: </h3>
-    <a href="https://www.linkedin.com/in/mohammed-hamdy-22b91928a/">Linked In</a>
+    <a target="_blank" href="https://www.linkedin.com/in/mohammed-hamdy-22b91928a/">Linked In</a>
     <br>
-    <a href="https://www.facebook.com/mohammedhamdy.fc">Facebook</a>
+    <a target="_blank" href="https://www.facebook.com/mohammedhamdy.fc">Facebook</a>
     <br>
-    <a href="https://twitter.com/MohammedHamdyX">X</a>
+    <a target="_blank" href="https://twitter.com/MohammedHamdyX">X</a>
   </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="colored line">
 </div>
