@@ -18,10 +18,11 @@ Here are some ideas to get you started:
   <div class="Who-are-me">
     <img src="images/work.png" alt="work card" width="100%">
     <h1 align="center">Hi, I'm Mohammed Hamdy Allam👋</h1>
-    <h2 align="center" >Front-End Developer</h2>
-    <img src="images/profile_image.png" alt="My image" width="200px" style="clip-path: circle();"/>
+    <h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0099FF&background=33000000&center=true&vCenter=true&random=false&width=291&lines=Front-End+Developer" alt="Typing SVG" /></a>
+    </h2>
     <div class="skills">
-      <h3>Skills:</h3>
+      <h3>Tools I use at work:</h3>
         <img align="center" src="images/html.png" alt="HTML image" width="50px">
         <img align="center" src="images/css.png" alt="CSS image" width="50px">
         <img align="center" src="images/js.png" alt="Javascript image" width="50px">
@@ -37,10 +38,24 @@ Here are some ideas to get you started:
   </div>
   <hr>
   <hr>
-  <div class="links">
-    <h3>Contact:</h3>
-    <a href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a>
+  <div class="lang">
+    <h3>Languages:</h3>
+    <spna>Arabic: Native</span>
     <br>
+    <spna>English: Very good</span>
+  </div>
+  <hr>
+  <hr>
+  <div class="cv&website">
+    <h3>CV and Personal website</h3>
+    <a download href="mohammed's CV.pdf">My cv</a><span>(You can see my CV to know more about me)</span>
+    <br>
+    <a href="https://mohammedhamdyallam.github.io/mohammed-Hamdy-Portfolio/">My portfolio</a><span>(You can see my portfolio with all my projects and more information about me)</span>
+  </div>
+  <hr>
+  <hr>
+  <div class="links">
+    <h3>My personal accounts: </h3>
     <a href="https://www.linkedin.com/in/mohammed-hamdy-22b91928a/">Linked In</a>
     <br>
     <a href="https://www.facebook.com/mohammedhamdy.fc">Facebook</a>
