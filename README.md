@@ -28,6 +28,8 @@ Here are some ideas to get you started:
         <img align="center" src="images/js.png" alt="Javascript image" width="50px">
         <img align="center" src="images/bootstrap.png" alt="bootstrap image" width="50px">
         <img align="center" src="images/react.png" alt="react image" width="50px">
+        <img align="center" src="images/angular.png" alt="angular image" width="50px">
+        <img align="center" src="images/vue.js.png" alt="vue.js image" width="50px">
         <img align="center" src="images/typescript.png" alt="react image" width="50px">
         <img align="center" src="images/sass.png" alt="react image" width="50px">
         <img align="center" src="images/jquery.png" alt="jquery image" width="50px">
